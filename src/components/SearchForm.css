@@ -1,0 +1,16 @@
+input[type="search"]::-webkit-input-placeholder {
+    color: #ffffff;
+    font-size: 1.5em;
+  }
+  input[type="search"]:-ms-input-placeholder {
+    color: #ffffff;
+    font-size: 1.5em
+  }
+  input[type="search"]::-ms-input-placeholder {
+    color: #ffffff;
+    font-size: 1.5em
+  }
+  input[type="search"]::placeholder {
+    color: #ffffff;
+    font-size: 1.5em
+  }
